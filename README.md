@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=120&width=100%&section=header" />
 
 ShoppingMall Member Management
 
@@ -28,4 +28,4 @@ ShoppingMall Member Management
 ![image](https://github.com/user-attachments/assets/eff923fc-8acf-4a57-9c66-d6c69f7d1755)
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=120&width=100%&section=footer" />
